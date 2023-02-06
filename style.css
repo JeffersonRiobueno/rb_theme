@@ -1,0 +1,35 @@
+/*
+Theme Name: 4B_THEME
+Theme URI: https://jeffersonriobueno.com
+Author: Jefferson Riobueno
+Author URI: https://jeffersonriobueno.com 
+Description:
+Version: 0.0.1
+License: X
+License URI: 
+Text Domain: 
+*/
+::-webkit-scrollbar {
+    width: 8px;
+    height: 0px;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #171614;
+    border: 0px none;
+    border-radius: 50px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgb(252, 109, 26);
+  }
+    
+  ::-webkit-scrollbar-track {
+    background: #cecece;
+    border: 0px none rgb(255, 255, 255);
+    border-radius: 50px;
+  }
+  *{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
